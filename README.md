@@ -28,15 +28,6 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
   </a>
 
-- JavaScript
-- React
-- Redux
-- NodeJS
-- ExpressJS
-- Sequelize
-- PostgreSQL
-- HTML
-- CSS
 ### Entre otras herramientas tambien tengo conocimiento en programas de edicion de imagen como Corel Draw
 ## !Espero poder ser parte de tu equipo de trabajo!
 #### Correo: isdavid92@hotmail.com
