@@ -10,7 +10,7 @@
 ### Mi objetivo principal es poder aportar todo mi conocimiento al mundo tech demostrando mi creatividad y habilidades para resolver problemas.
 ## Tecnologías que uso:
 ### En el bootcamp de Henry he podido adquirir experiencia fundamental para trabajar en mis proyectos con las siguientes tecnologías:
-<p> 
+
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -26,8 +26,8 @@
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+  </a>
+
 - JavaScript
 - React
 - Redux
