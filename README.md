@@ -24,6 +24,6 @@
 ### Entre otras herramientas tambien tengo conocimiento en programas de edicion de imagen como Corel Draw
 ## !Espero poder ser parte de tu equipo de trabajo!
 #### Portafolio: https://portfolio-three-zeta-10.vercel.app
+#### CV: https://drive.google.com/file/d/1o1brj-M8hFUGzo0jfND8iEj2OF2VOghM/view
 #### Correo: isdavid92@hotmail.com
 #### Linkedin: https://www.linkedin.com/in/israel-david-aguilar-cepeda-25175126a/
-#### Linkedin: https://drive.google.com/file/d/1o1brj-M8hFUGzo0jfND8iEj2OF2VOghM/view
